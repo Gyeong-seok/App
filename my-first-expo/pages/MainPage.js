@@ -7,6 +7,7 @@ import {
   ImageBackground,
   TouchableOpacity,
   ScrollView,
+  main,
 } from "react-native";
 
 
